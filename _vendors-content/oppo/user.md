@@ -1,4 +1,4 @@
----
+oppoF27---
 manufacturer: 
     - oppo
 
